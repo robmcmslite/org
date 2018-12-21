@@ -1,11 +1,16 @@
 {
-  "posts": [
+  "channelse": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "🎁Design"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "collections": [{
+    "name": "meetings",
+    "channelId": 1
+  },
+  {
+    "name": "specs",
+    "channelId": 1
+  }]
 }
