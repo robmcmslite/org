@@ -2,7 +2,43 @@
   "channels": [
     {
       "id": 1,
-      "name": "🎁Design"
+      "name": "⭐️Handbook"
+    },
+    {
+      "id": 2,
+      "name": "Admin and office"
+    },
+    {
+      "id": 3,
+      "name": "Analytics"
+    },
+    {
+      "id": 4,
+      "name": "Customer success"
+    },
+    {
+      "id": 5,
+      "name": "Dev"
+    },
+    {
+      "id": 6,
+      "name": "General"
+    },
+    {
+      "id": 7,
+      "name": "Marketing"
+    },
+    {
+      "id": 8,
+      "name": "Interviews"
+    },
+    {
+      "id": 9,
+      "name": "Sales"
+    },
+    {
+      "id": 10,
+      "name": "Support"
     }
   ],
   "collections": [{
