@@ -1,11 +1,11 @@
 {
   "channels": [
     {
-      "name": 'Design',
+      "name": "Design",
       "collections": [
-        { "name": 'meetings' },
-        { "name": 'friends' },
-        { "name": 'chimbies'}
+        { "name": "meetings" },
+        { "name": "friends" },
+        { "name": "chimbies"}
        ],
     }
   ]
