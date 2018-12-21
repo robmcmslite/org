@@ -1,12 +1,11 @@
 {
-  "channels": [
+  "posts": [
     {
-      "name": "Design",
-      "collections": [
-        { "name": "meetings" },
-        { "name": "friends" },
-        { "name": "chimbies"}
-       ]
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
