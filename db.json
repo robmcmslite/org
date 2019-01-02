@@ -41,12 +41,35 @@
       "name": "Support"
     }
   ],
-  "collections": [{
-    "name": "meetings",
-    "channelId": 1
-  },
-  {
-    "name": "specs",
-    "channelId": 1
-  }]
+  "collections": [
+    {
+      "id": 1,
+      "name": "meetings",
+      "channelId": 1,
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "name": "specs",
+      "channelId": 1,
+      "color": "blue"
+    }
+  ],
+  "notes": [
+    {
+    "name": "Knowledge is the new cool",
+    "channelId": 1,
+    "collectionId": null
+   },
+    {
+    "name": "Meeting 02 Jan",
+    "channelId": 1,
+    "collectionId": 1
+   },
+    {
+    "name": "Meeting 02 Jan",
+    "channelId": 2,
+    "collectionId": null
+   }
+  ]
 }
