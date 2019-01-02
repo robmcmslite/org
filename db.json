@@ -54,22 +54,5 @@
       "channelId": 1,
       "color": "blue"
     }
-  ],
-  "notes": [
-    {
-    "name": "Knowledge is the new cool",
-    "channelId": 1,
-    "collectionId": null
-   },
-    {
-    "name": "Meeting 02 Jan",
-    "channelId": 1,
-    "collectionId": 1
-   },
-    {
-    "name": "The Office",
-    "channelId": 2,
-    "collectionId": null
-   }
   ]
 }
