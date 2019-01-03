@@ -74,6 +74,12 @@
       "name": "Team Handbook",
       "channelId": 1,
       "collectionId": null
+    },
+    {
+      "id": 3,
+      "name": "Meeting jan 2",
+      "channelId": 1,
+      "collectionId": 3
     }
   ]
 }
