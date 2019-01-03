@@ -53,6 +53,13 @@
       "name": "specs",
       "channelId": 1,
       "color": "#7689F4"
+    },
+    {
+      "id": 3,
+      "name": "specs",
+      "channelId": 1,
+      "collectionId": 2,
+      "color": "#7689F4"
     }
   ],
   "notes": [
