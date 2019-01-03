@@ -46,13 +46,27 @@
       "id": 1,
       "name": "meetings",
       "channelId": 1,
-      "color": "red"
+      "color": "#FF5A6E"
     },
     {
       "id": 2,
       "name": "specs",
       "channelId": 1,
-      "color": "blue"
+      "color": "#7689F4"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "name": "Meeting Jan 2",
+      "channelId": 1,
+      "collectionId": 1
+    },
+    {
+      "id": 2,
+      "name": "Team Handbook",
+      "channelId": 1,
+      "collectionId": null
     }
   ]
 }
