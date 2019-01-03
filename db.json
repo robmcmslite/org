@@ -58,7 +58,7 @@
       "id": 3,
       "name": "Archive",
       "channelId": 1,
-      collectionId
+      "collectionId": 2,
       "color": "#7689F4"
     }
   ],
