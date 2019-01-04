@@ -67,7 +67,7 @@
   "notes": [
     {
       "id": 1,
-      "name": "Meeting Jan 2",
+      "name": "Meeting template",
       "channelId": 1,
       "collectionId": 1
     },
@@ -79,7 +79,7 @@
     },
     {
       "id": 3,
-      "name": "Meeting jan 2",
+      "name": "Standup jan 3",
       "channelId": 1,
       "collectionId": 3
     }
