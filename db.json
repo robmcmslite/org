@@ -46,12 +46,14 @@
       "id": 1,
       "name": "meetings",
       "channelId": 1,
+      "collectionId": 1,
       "color": "#FF5A6E"
     },
     {
       "id": 2,
       "name": "specs",
       "channelId": 1,
+      "collectionId": 1,
       "color": "#7689F4"
     },
     {
