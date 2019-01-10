@@ -44,21 +44,21 @@
   "collections": [
     {
       "id": 1,
-      "name": "meetings",
+      "name": "Meetings",
       "channelId": 1,
       "collectionId": null,
       "color": "#FF5A6E"
     },
     {
       "id": 2,
-      "name": "specs",
+      "name": "Specs",
       "channelId": 1,
       "collectionId": null,
       "color": "#7689F4"
     },
     {
       "id": 3,
-      "name": "january",
+      "name": "January",
       "channelId": 1,
       "collectionId": 1,
       "color": "#7689F4"
