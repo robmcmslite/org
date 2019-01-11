@@ -47,21 +47,24 @@
       "name": "Meetings",
       "channelId": 1,
       "collectionId": null,
-      "color": "#FF5A6E"
+      "color": "#FF5A6E",
+      "isOpen": false
     },
     {
       "id": 2,
       "name": "Specs",
       "channelId": 1,
       "collectionId": null,
-      "color": "#7689F4"
+      "color": "#7689F4",
+      "isOpen": false
     },
     {
       "id": 3,
       "name": "January",
       "channelId": 1,
       "collectionId": 1,
-      "color": "#7689F4"
+      "color": "#7689F4",
+      "isOpen": false
     }
   ],
   "notes": [
