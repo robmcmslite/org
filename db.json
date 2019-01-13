@@ -6,7 +6,7 @@
     },
     {
       "id": 2,
-      "name": "Admin and office"
+      "name": "Product squads 🦑"
     },
     {
       "id": 3,
@@ -46,25 +46,101 @@
       "id": 1,
       "name": "Meetings",
       "channelId": 1,
-      "collectionId": null,
-      "color": "#FF5A6E",
-      "isOpen": false
+      "collectionId": null
     },
     {
       "id": 2,
       "name": "Specs",
       "channelId": 1,
-      "collectionId": null,
-      "color": "#7689F4",
-      "isOpen": false
+      "collectionId": null
     },
     {
       "id": 3,
       "name": "January",
       "channelId": 1,
-      "collectionId": 1,
-      "color": "#7689F4",
-      "isOpen": false
+      "collectionId": 1
+    },
+    // PRODUCT SQUAD collections
+    {
+      "id": 4,
+      "name": "bilbo-editor",
+      "channelId": 1,
+      "collectionId": null
+    },
+    {
+      "id": 5,
+      "name": "bilbo-organise",
+      "channelId": 1,
+      "collectionId": null
+    },
+    {
+      "id": 6,
+      "name": "bilbo-growth",
+      "channelId": 1,
+      "collectionId": null
+    },
+    {
+      "id": 7,
+      "name": "bilbo-integrate",
+      "channelId": 1,
+      "collectionId": null
+    }
+    // BILBO EDITOR COLLS
+    {
+      "id": 8,
+      "name": "QA",
+      "channelId": 1,
+      "collectionId": 4
+    },
+    {
+      "id": 9,
+      "name": "Stand-ups",
+      "channelId": 1,
+      "collectionId": 4
+    },
+    {
+      "id": 10,
+      "name": "Specs",
+      "channelId": 1,
+      "collectionId": 4
+    },
+    // BILBO ORGANISE
+    {
+      "id": 11,
+      "name": "Specs",
+      "channelId": 1,
+      "collectionId": 5
+    },
+    {
+      "id": 12,
+      "name": "QA",
+      "channelId": 1,
+      "collectionId": 5
+    },
+    {
+      "id": 13,
+      "name": "Navigation",
+      "channelId": 1,
+      "collectionId": 5
+    },
+    // OTHERS
+    {
+      "id": 14,
+      "name": "Chilly features",
+      "channelId": 1,
+      "collectionId": null
+    },
+    {
+      "id": 15,
+      "name": "Archives",
+      "channelId": 1,
+      "collectionId": null
+    },
+    {
+      "id": 16,
+      "name": "Squad closings",
+      "channelId": 1,
+      "collectionId": null
     }
   ],
   "notes": [
@@ -74,17 +150,120 @@
       "channelId": 1,
       "collectionId": 1
     },
+    //  EDITOR QA
     {
       "id": 2,
-      "name": "Team Handbook",
+      "name": "QA Editor - Feedbacks team",
+      "channelId": 1,
+      "collectionId": 8
+    },
+    // EDITOR STANDUPS
+    {
+      "id": 3,
+      "name": "Editor – Mon. 7th Jan.",
+      "channelId": 1,
+      "collectionId": 9
+    },
+    {
+      "id": 4,
+      "name": "Editor – Tues. 8th Jan.",
+      "channelId": 1,
+      "collectionId": 9
+    },
+    {
+      "id": 5,
+      "name": "Editor – Weds. 9th Jan.",
+      "channelId": 1,
+      "collectionId": 9
+    },
+    {
+      "id": 6,
+      "name": "Editor – Thurs. 10th Jan.",
+      "channelId": 1,
+      "collectionId": 9
+    },
+    {
+      "id": 7,
+      "name": "Editor – Fri.11th Jan.",
+      "channelId": 1,
+      "collectionId": 9
+    },
+    {
+      "id": 8,
+      "name": "Editor – Mon. 13th Jan.",
+      "channelId": 1,
+      "collectionId": 9
+    },
+    // EDITOR SPECS
+    {
+      "id": 9,
+      "name": "Editor spec",
+      "channelId": 1,
+      "collectionId": 10
+    },
+    {
+      "id": 10,
+      "name": "Editor – Block drag and drop.",
+      "channelId": 1,
+      "collectionId": 10
+    },
+    {
+      "id": 11,
+      "name": "Editor – Block actions",
+      "channelId": 1,
+      "collectionId": 10
+    },
+    // BILBO ORGANISE
+    {
+      "id": 12,
+      "name": "Bilbo organise status",
       "channelId": 1,
       "collectionId": null
     },
     {
-      "id": 3,
-      "name": "Standup jan 3",
+      "id": 13,
+      "name": "Bilbo organise root",
       "channelId": 1,
-      "collectionId": 3
+      "collectionId": null
+    },
+    // ORGANISE SPECS
+    {
+      "id": 14,
+      "name": "Bulk actions spec",
+      "channelId": 1,
+      "collectionId": 11
+    },
+    {
+      "id": 15,
+      "name": "Quick access upgrade",
+      "channelId": 1,
+      "collectionId": 11
+    },
+    {
+      "id": 16,
+      "name": "Performance - research",
+      "channelId": 1,
+      "collectionId": 11
+    },
+    // ORGANISE QA
+    {
+      "id": 14,
+      "name": "Perf API QA",
+      "channelId": 1,
+      "collectionId": 12
+    },
+    {
+      "id": 15,
+      "name": "Quick access upgrade QA",
+      "channelId": 1,
+      "collectionId": 12
+    },
+    // NAVIGATION
+    {
+      "id": 16,
+      "name": "Performance - research",
+      "channelId": 1,
+      "collectionId": 13
     }
   ]
 }
