@@ -84,8 +84,7 @@
       "name": "bilbo-integrate",
       "channelId": 1,
       "collectionId": null
-    }
-    // BILBO EDITOR COLLS
+    },
     {
       "id": 8,
       "name": "QA",
@@ -104,7 +103,6 @@
       "channelId": 1,
       "collectionId": 4
     },
-    // BILBO ORGANISE
     {
       "id": 11,
       "name": "Specs",
@@ -123,7 +121,6 @@
       "channelId": 1,
       "collectionId": 5
     },
-    // OTHERS
     {
       "id": 14,
       "name": "Chilly features",
@@ -150,14 +147,12 @@
       "channelId": 1,
       "collectionId": 1
     },
-    //  EDITOR QA
     {
       "id": 2,
       "name": "QA Editor - Feedbacks team",
       "channelId": 1,
       "collectionId": 8
     },
-    // EDITOR STANDUPS
     {
       "id": 3,
       "name": "Editor – Mon. 7th Jan.",
@@ -194,7 +189,6 @@
       "channelId": 1,
       "collectionId": 9
     },
-    // EDITOR SPECS
     {
       "id": 9,
       "name": "Editor spec",
@@ -213,7 +207,6 @@
       "channelId": 1,
       "collectionId": 10
     },
-    // BILBO ORGANISE
     {
       "id": 12,
       "name": "Bilbo organise status",
@@ -226,7 +219,6 @@
       "channelId": 1,
       "collectionId": null
     },
-    // ORGANISE SPECS
     {
       "id": 14,
       "name": "Bulk actions spec",
@@ -245,7 +237,6 @@
       "channelId": 1,
       "collectionId": 11
     },
-    // ORGANISE QA
     {
       "id": 14,
       "name": "Perf API QA",
@@ -258,7 +249,6 @@
       "channelId": 1,
       "collectionId": 12
     },
-    // NAVIGATION
     {
       "id": 16,
       "name": "Performance - research",
