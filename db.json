@@ -45,19 +45,19 @@
     {
       "id": 1,
       "name": "Meetings",
-      "channelId": 1,
+      "channelId": 2,
       "collectionId": null
     },
     {
       "id": 2,
       "name": "Specs",
-      "channelId": 1,
+      "channelId": 2,
       "collectionId": null
     },
     {
       "id": 3,
       "name": "January",
-      "channelId": 1,
+      "channelId": 2,
       "collectionId": 1
     },
     {
@@ -143,7 +143,7 @@
     {
       "id": 1,
       "name": "Meeting template",
-      "channelId": 1,
+      "channelId": 2,
       "collectionId": 1
     },
     {
